@@ -1,0 +1,8 @@
+name: Product QR Code
+type: module
+description: Generates Product QR code.
+core: 8.x
+package: Custom
+dependencies:
+  - drupal:block
+core_version_requirement: ^8 || ^9
